@@ -7,4 +7,4 @@ The Model is trained using a classic GAP and standard Fully Connected Neural net
 Feel free to use this as a reference script.
 
 Take the word "Awesome" I use the projector to look for the best match in a neighbour of ~10 embedding points
-![](/wordloud proj.PNG)
+![](/wordloudproj.PNG)
